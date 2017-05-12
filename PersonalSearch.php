@@ -33,6 +33,29 @@
 <select name="topic">
   <option value="General">General</option>
   <option value="War & Peace">War & Peace</option>
+  <option value="Foreign Policy">Foreign Policy</option>
+  <option value="Technology">Technology</option>
+  <option value="Civil Rights">Civil Rights</option>
+  <option value="Abortion">Abortion</option>
+  <option value="Jobs">Jobs</option>
+  <option value="Energy & Oil">Energy & Oil</option>
+  <option value="Welfare & Poverty">Welfare & Poverty</option>
+  <option value="Health Care">Health Care</option>
+  <option value="Government Reform">Government Reform</option>
+  <option value="Environment">Environment</option>
+  <option value="Free Trade">Free Trade</option>
+  <option value="Families & Children">Families & Children</option>
+  <option value="Crime">Crime</option>
+  <option value="Homeland Security">Homeland Security</option>
+  <option value="Principles & Values">Principles & Values</option>
+  <option value="Gun Control">Gun Control</option>
+  <option value="Social Security">Social Security</option>
+  <option value="Immigration">Immigration</option>
+  <option value="Corporations">Corporations</option>
+  <option value="Budget & Economy">Budget & Economy</option>
+  <option value="Drugs">Drugs</option>
+  <option value="Tax Reform">Tax Reform</option>
+  <option value="Education">Education</option>
 </select>
 <textarea name="General" form="generalForm"></textarea>
 <br>
